@@ -27,7 +27,7 @@ A simple e-commerce React application that allows users to browse a product cata
 
 ```bash
 git clone https://github.com/Margarita792/react-mini-shop.git
-cd silpo-style-sweets
+cd react-mini-shop
 npm install
 npm start
 
@@ -59,6 +59,6 @@ npm start
 
 ```bash
 git clone https://github.com/Margarita792/react-mini-shop.git
-cd silpo-style-sweets
+cd react-mini-shop
 npm install
 npm start
