@@ -23,6 +23,9 @@ A simple e-commerce React application that allows users to browse a product cata
 - CSS
 - JSX
 
+###  Screenshot
+
+![App Screenshot](./Screenshot.png)
 ###  Installation
 
 ```bash
